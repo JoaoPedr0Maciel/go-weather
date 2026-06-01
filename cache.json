@@ -1,0 +1,17 @@
+{
+  "campo verde": {
+    "latitude": -15.54667,
+    "longitude": -55.16889,
+    "requestedAt": "2026-05-30T23:56:41.300809022-04:00"
+  },
+  "cuiaba": {
+    "latitude": -15.59611,
+    "longitude": -56.09667,
+    "requestedAt": "2026-05-30T23:59:44.099807581-04:00"
+  },
+  "manaus": {
+    "latitude": -3.10194,
+    "longitude": -60.025,
+    "requestedAt": "2026-05-30T23:58:08.919457394-04:00"
+  }
+}
